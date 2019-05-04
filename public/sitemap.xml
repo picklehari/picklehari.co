@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://example.com/about/</loc>
+      <loc>https://picklehari.github.com/about/</loc>
       
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
       
@@ -17,7 +17,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>https://picklehari.github.com/categories/</loc>
       
       
       <changefreq>monthly</changefreq>
@@ -29,7 +29,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>https://picklehari.github.com/tags/</loc>
       
       
       <changefreq>monthly</changefreq>
@@ -41,7 +41,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/</loc>
+      <loc>https://picklehari.github.com/</loc>
       
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
       
