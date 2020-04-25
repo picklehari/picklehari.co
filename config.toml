@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
 
   [[menu.main]]
     name = "Projects"
-    url = "http://github.com/picklehari"
+    url = "https://www.notion.so/picklehari/c515e7e268714f258634935e7ff5c480?v=1c2b4c86cef049f6b49a9a102d79b68a"
     weight = 3
 
   [[menu.main]]
